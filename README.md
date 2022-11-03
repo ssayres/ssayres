@@ -12,10 +12,7 @@
 <br/>
 • ssayres@outlook.com 📧
 <br/>
-• +55 (11)x-xxxx-xxxx 📱
-<br/>
-• +55 (11)xxxx-xxxx ☎️
-<br/>
+
 
 ## Oi eu sou  Sidnei, Desenvolvedor Web!
 
