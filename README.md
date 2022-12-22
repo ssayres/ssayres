@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   <hr/>
-  <img align="center" alt="Rapha-Larvel"height="1000"width="954"src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-31.gif">
+  <img align="center" alt="Rapha-Larvel"height="1000"width="954"src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-312.gif">
 </div>
 
 <hr/>
