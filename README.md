@@ -37,9 +37,9 @@
 <hr/>
 
 <div>
-  <a href="https://www.instagram.com/ayres_sidnei/" target="_blank">
+  <!-- <a href="https://www.instagram.com/ayres_sidnei/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-  </a>
+  </a> -->
 
   <a href="https://open.spotify.com/artist/49fT1d51nkUIYWbWxwdyVI?si=e6h1-L1-Ty2tMNPsXLnZRw" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/>
