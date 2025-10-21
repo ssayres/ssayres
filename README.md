@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   <hr/>
-  <img align="center" alt="Rapha-Larvel"height="200"width="850"src="https://media.tenor.com/mzc8QBYE4ekAAAAC/sonic.gif">
+  <img align="center" alt="Rapha-Larvel"height="200"width="850"src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*5eu2YRotl6kL2tVLGVmGTg.gif">
 </div>
 
 <hr/>
