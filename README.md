@@ -31,7 +31,7 @@
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rapha-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Rapha-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt="Rapha-Vue" height="30" width="40" src="https://assets.dio.me/dvJPivDnE5pQCFYtPbaLD2FO1q-Sa0tBJ3jIFW1dYTU/f:webp/q:80/L2FydGljbGVzL2NvdmVyL2FhZmQ5YzZmLWI5OWMtNGU2Ny1iOWRhLTM1ODBlNTc3ZDUyZS5qcGc">
 </div>
 
 <hr/>
